@@ -8,3 +8,8 @@ First GUI Front page:
 Input Page:
 
 ![Gui_front_2](https://user-images.githubusercontent.com/45527020/134311761-b47a5ce4-e78d-4ab3-8b02-17665f0be057.jpg)
+
+
+Predict_ GUI:
+
+![Gui_predict](https://user-images.githubusercontent.com/45527020/134311981-a742cc94-a1d9-48a8-9e50-dba28611fe08.jpg)
